@@ -1,0 +1,17 @@
+                            SilverSword
+                           HACKGRID
+
+Team Members:-
+Sumedha Poddar 
+Sucharita Paul
+Rajat Sharma
+Shreya Dhanuka
+
+Problem Statement:-
+Create an application for the military troops that helps in secure communication, enables them to share their location securely, share intelligence, manage operations and facilitate them to coordinate with the air force and the navy. Detecting projectiles expected trajectory to counter it or destroy it.
+
+                                       ABSTRACT
+
+We are creating an application for helping military troops in various ways and helping them to carry out their mission more effectively. Secure communication is when two entities are communicating and do not want a third party to listen in. For that they need to communicate in a way not susceptible to eavesdropping or interception. We are providing secure communication to the military troops by providing them with a device which can detect the distance from them to other troops. Also, soldiers in each troop can be in radius range of 5kms. Now, for sharing their location securely they will have id of the lead of other troop so that they can share their location securely with a particular id only. To manage the operations we are keeping an option of command box where a soldier of the troop can put in, whatever operations they are asked to perform so that there is no further confusion in listening to the command, as the written command can be used for further reference also. The facilities that will be available to help them in their difficult times will be through other modes of safety. The option for air force and navy will be available. They can communicate and send message to them during an emergency and as and when necessary.
+Detecting the enemies out is the most important job as if we have to save our country and take proper actions against them then knowing their location is very necessary. The head of each troop will be provided with a device which could detect weapons nearby. Weapons like gun, riffle, phones.
+Also, we are providing with an additional option of health care facilities that will measure the heart rate of the soldier and detect if there are any health issues.
